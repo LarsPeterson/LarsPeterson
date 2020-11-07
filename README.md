@@ -2,7 +2,7 @@
 
 ![Lars Github Stats](https://github-readme-stats.vercel.app/api?username=larspeterson&count_private=true&show_icons=true&theme=radical)
 
-### 🔭 CURRENT WORKING ON
+### 🔭 CURRENTLY WORKING ON
 
 Right now I'm spending most of my time on Peterson Digital LLC, the company I founded in 2017 around my freelance work. It's been quite successful.
 
@@ -17,6 +17,8 @@ Developing websites or web applications. Find software clients and working on co
 ### 📫 CONTACT ME
 
 Personal: thelarspeterson@gmail.com
+
 Business: lars@petersondigital.co
+
 Phone: +1-(209)-636-9956
 
