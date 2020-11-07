@@ -1,18 +1,6 @@
 # Hi there 👋
 
-I'm Highly skilled at client-side custom web applications with JavaScript/React/Angular.
-
-I'm experienced in architecting and managing server-side systems and services.
-
-I'm passionate about setting up workflow processes and directing software teams.
-
 [![my github stats](https://github-readme-stats.vercel.app/api?username=larspeterson)](https://github.com/anuraghazra/github-readme-stats)
-
-https://lars.rocks
-
-https://codepen.io/LarsPeterson/ 
-
-https://stackoverflow.com/users/8294707/lars-peterson
 
 ## 🔭  I’m currently working on ...
 
