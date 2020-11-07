@@ -7,7 +7,9 @@ I'm experienced in architecting and managing server-side systems and services.
 I'm passionate about setting up workflow processes and directing software teams.
 
 https://lars.rocks
+
 https://codepen.io/LarsPeterson/ 
+
 https://stackoverflow.com/users/8294707/lars-peterson
 
 ## 🔭  I’m currently working on ...
