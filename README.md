@@ -2,28 +2,19 @@
 
 ![Lars Github Stats](https://github-readme-stats.vercel.app/api?username=larspeterson&count_private=true&show_icons=true&theme=radical)
 
-
 ## 🔭  I’m currently working on ...
 
 Right now I'm spending most of my time on Peterson Digital LLC, the company I founded in 2017 around my freelance work. It's been quite successful.
 
-## 🌱  I’m currently learning ...
+## 🤔 | Looking for developers!
 
-Angular, Docker, CI/CD, By-The-Book Agile
+Looking to hire Entry-Level Front End UI/UX developers. Check out https://petersondigital.co
 
-## 👯  I’m looking to collaborate on ...
+## 💬 | Ask me about
 
-Any software projects using JavaScript or Java on the web. I have a Team who can be of assistaince.
+Developing websites or web applications. Find software clients and working on cool projects. Contributing to the community through organized local Meetups.
 
-## 🤔  I’m looking for help with ...
-
-Looking to hire Web Development, Web Design, UI/UX Leads!!!
-
-## 💬  Ask me about ...
-
-Websites, Web Apps, Software, Business Management, Making Big Moves :)
-
-## 📫  How to reach me: ...
+## 📫 | How to reach me
 
 Personal:
 thelarspeterson@gmail.com
