@@ -6,6 +6,8 @@ I'm experienced in architecting and managing server-side systems and services.
 
 I'm passionate about setting up workflow processes and directing software teams.
 
+[![my github stats](https://github-readme-stats.vercel.app/api?username=larspeterson)](https://github.com/anuraghazra/github-readme-stats)
+
 https://lars.rocks
 
 https://codepen.io/LarsPeterson/ 
