@@ -1,6 +1,7 @@
 # Hi there 👋
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=larspeterson)](https://github.com/anuraghazra/github-readme-stats)
+![Lars Github Stats](https://github-readme-stats.vercel.app/api?username=larspeterson&count_private=true)
+
 
 ## 🔭  I’m currently working on ...
 
