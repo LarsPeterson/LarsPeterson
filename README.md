@@ -16,12 +16,7 @@ Developing websites or web applications. Find software clients and working on co
 
 ### 📫 CONTACT ME
 
-Personal:
-thelarspeterson@gmail.com
-
-Business:
-lars@petersondigital.co
-
-Call me anytime:
-+1 (209)-636-9956
+Personal: thelarspeterson@gmail.com
+Business: lars@petersondigital.co
+Phone: +1-(209)-636-9956
 
