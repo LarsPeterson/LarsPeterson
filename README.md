@@ -4,8 +4,16 @@
 
 - **Deno**:
 A secure runtime for JavaScript and TypeScript.
-https://deno.land/
+https://deno.land
 
 - **Angular**:
 The best framework for scalable web applications. 
 https://angular.io
+
+- **Kubernetes**:
+Automated container deployment, scaling, and management
+https://kubernetes.io
+
+- **Terraform**:
+Open-source infrastructure as code software tool.
+https://www.terraform.io
