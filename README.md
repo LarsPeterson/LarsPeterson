@@ -1,8 +1,5 @@
 <img src="https://github.com/LarsPeterson/LarsPeterson/blob/main/larspeterson-bannner.png" alt="Lars Peterson Banner">
 
-
-![Lars Github Stats](https://github-readme-stats.vercel.app/api?username=larspeterson&count_private=true&show_icons=true&theme=radical)
-
 ### Favorite Technology
 
 - **Deno**:
