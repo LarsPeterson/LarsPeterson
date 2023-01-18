@@ -2,4 +2,5 @@
 
 ### Cool Repositories
 
-https://github.com/gtxaspec/wz_mini_hacks
+- Hacks for Wyze Cams: https://github.com/gtxaspec/wz_mini_hacks
+- GitHub Profile Badges: https://github.com/Schweinepriester/github-profile-achievements
